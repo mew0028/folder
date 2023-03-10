@@ -1,0 +1,4 @@
+(getgenv and getgenv() or _G or shared).vipkey = "91bbfe12-103d-4897-8b9a-6a5e9e76fb87"
+loadstring(
+    game:HttpGet("https://gist.githubusercontent.com/htt-py/92db22eeefad0042a6da9117501ad827/raw/VoilaHub.luau", true)
+)()
